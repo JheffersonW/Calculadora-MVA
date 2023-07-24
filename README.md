@@ -1,5 +1,5 @@
 # Calculadora-MVA
-Programa para calculo de percentual de MVA com base nos valores da base de ICMS, valor de IPI e valor da base de ST
+Programa para calculo de percentual de MVA com base nos valores da Base de ICMS, IPI e Base de ST
 
 # Calculadora de MVA (Margem de Valor Agregado)
 
